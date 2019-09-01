@@ -1,17 +1,26 @@
 {
-    "name": "oauth-practice",
-    "version": "1.0.0",
-    "description": "Course files for The Net Ninja OAuth playlist on YouTube",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "ejs": "^2.6.2",
-        "express": "^4.17.1",
-        "passport": "^0.4.0",
-        "passport-google-oauth20": "^2.0.0"
-    }
+  "name": "oauth-practice",
+  "version": "1.0.0",
+  "description": "Course files for The Net Ninja OAuth playlist on YouTube",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edaniels2275/oauth-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edaniels2275/oauth-practice/issues"
+  },
+  "homepage": "https://github.com/edaniels2275/oauth-practice#readme"
 }
